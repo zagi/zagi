@@ -1,14 +1,16 @@
-<h1 align="left">Hi 👋, My name is Michał Zagalski</h1>
-<h3 align="left">I'm a Full-Stack Developer from Warsaw, Poland, with 7+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cats helper. Seems I'm a valuable asset to any team.</h3>
+### Hi 👋, My name is Michał Zagalski
+
+## I'm a Full-Stack Developer from Warsaw, Poland, with 7+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cats helper. Seems I'm a valuable asset to any team.
 
 <!-- - 🔭 I’m currently working on ... -->
+
 - 🌱 I’m currently learning **Solidity and React**
 - 💬 Ask me about **Vue/Nuxt, Django, Symfony, Laravel or Rust**
 - 📫 How to reach me: **zagalski@protonmail.com**
 - ⚡ Fun fact: 2 dogs, 1 cat, aquarium and couple of snails ;)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## Languages and Tools:
+
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
@@ -48,4 +50,3 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="ms-sql" width="40" height="40"/>
   </a>
-</p>

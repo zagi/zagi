@@ -3,7 +3,7 @@
 ## I'm a Full-Stack Developer from Warsaw, Poland, with 7+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cat helper. Seems I'm a valuable asset to any team.
 
 - 🔭 I’m currently working on a veterinary management system upgrades in Nuxt3, and on a link tree copy in Next.js 
-- 🌱 I’m currently learning **React(Next.js in particular) and Solidity**
+- 🌱 I’m currently learning **React(Next.js in particular), Swift and Solidity**
 - 💬 Ask me about **Vue/Nuxt, TypeScript, Python, Django, Symfony, Laravel or Rust**
 - 📫 How to reach me: **zagalski@protonmail.com**
 - ⚡ Fun fact: 2 dogs, 1 cat, an aquarium and a couple of snails ;)

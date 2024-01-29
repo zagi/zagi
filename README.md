@@ -1,6 +1,6 @@
 # Hi 👋, My name is Michał Zagalski
 
-<div class="left">
+<div align="left">
 <div>
   ## I'm a Full-Stack Developer from Warsaw, Poland, with 7+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cat helper. Seems I'm a valuable asset to any team.
 

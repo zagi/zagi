@@ -1,6 +1,6 @@
 # Hi 👋, My name is Michał Zagalski
 
-## I'm a Full-Stack Developer from Warsaw, Poland, with 7+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cat helper. Seems I'm a valuable asset to any team.
+## I'm a Full-Stack Developer from Warsaw, Poland, with 8+ years of expertise in web app development, skilled in JavaScript, TypeScript, PHP, Python, Rust, and Java. Diverse tech stack, problem solver, and dedicated learner. Passionate about programming, blockchain, and a range of interests from 3D printing to free-living cat helper. Seems I'm a valuable asset to any team.
 
 - 🔭 I’m currently working on veterinary management system upgrades in Nuxt3, on a link tree copy in Next.js and SwiftUI iOS app.
 - 🌱 I’m currently learning **Swift and Solidity**

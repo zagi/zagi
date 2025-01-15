@@ -9,7 +9,7 @@
 - ⚡ Fun fact: 2 dogs, 1 cat, an aquarium and a couple of snails ;)
   
 ## You can buy me a coffee here:
-buycoffee.to/zagi14
+**buycoffee.to/zagi14**
 
 
 ## Languages and Tools:

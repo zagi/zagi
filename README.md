@@ -8,6 +8,10 @@
 - 📫 How to reach me: **zagalski@protonmail.com**
 - ⚡ Fun fact: 2 dogs, 1 cat, an aquarium and a couple of snails ;)
   
+## You can buy me a coffee here:
+buycoffee.to/zagi14
+
+
 ## Languages and Tools:
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">

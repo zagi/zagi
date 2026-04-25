@@ -22,8 +22,8 @@
 
 - **[`nask-epp-client`](https://github.com/zagi/nask-epp-client)** — Node.js client for the NASK EPP protocol (`.pl` domain registry).
 - **[`browser-curl`](https://github.com/zagi/browser-curl)** — Bypass WAF 403s by mimicking Chrome 145 headers. MIT.
-- **`parallel-requests`** — Claude Code skill: detects sequential independent HTTP calls and refactors to parallel execution (Promise.all / asyncio.gather + 7 more languages).
-- **`@coinpaprika/api-nodejs-client` v3** & **CoinPaprika PHP SDK v1.5** — full API coverage, dual CJS/ESM, integration tests, GitHub Actions CI.
+- **[`parallel-requests`](https://github.com/zagi/parallel-requests)** — Claude Code skill: detects sequential independent HTTP calls and refactors to parallel execution (Promise.all / asyncio.gather + 7 more languages).
+- **[`@coinpaprika/api-nodejs-client`](https://github.com/coinpaprika/coinpaprika-api-nodejs-client) v3** & **CoinPaprika PHP SDK v1.5** — full API coverage, dual CJS/ESM, integration tests, GitHub Actions CI.
 
 ## Stack
 

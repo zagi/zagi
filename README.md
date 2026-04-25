@@ -109,12 +109,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-zagalski-b371a0196)
 - 🐙 [github.com/zagi](https://github.com/zagi)
 
-## Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zagi&show_icons=true&hide_border=true&count_private=true&theme=default" alt="zagi's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zagi&layout=compact&hide_border=true&langs_count=8&theme=default" alt="zagi's top languages" />
-</a>
 
 ## Off-keyboard
 

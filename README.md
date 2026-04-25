@@ -10,11 +10,11 @@
 
 ## Recent work
 
-- **DexPaprika** — Vue 3 → Nuxt 4 SSR migration on Cloudflare Workers. Owned the 8-phase PageSpeed program, Bootstrap → Tailwind v4 refactor (53% CSS reduction), 3-tier stale-while-revalidate cache with critical-CSS injection, and the visual + mobile UX rewrite (thumb-bar nav, swipe gestures, refactored right-drawer split into design-token components).
+- **[DexPaprika](https://dexpaprika.com)** — Vue 3 → Nuxt 4 SSR migration on Cloudflare Workers. Owned the 8-phase PageSpeed program, Bootstrap → Tailwind v4 refactor (53% CSS reduction), 3-tier stale-while-revalidate cache with critical-CSS injection, and the visual + mobile UX rewrite (thumb-bar nav, swipe gestures, refactored right-drawer split into design-token components).
 
 - **[GetName.pl](https://getname.pl)** — Premium `.pl` domain marketplace on Nuxt 4. Full NASK EPP registry integration, Solidity smart contracts on Polygon (`GNRegistry`, `GNMarketplace`, `GNToken` ERC-20, NFT domains), AI domain assistant (OpenAI), real-time auctions with anti-snipe, multi-payment (Stripe / Przelewy24 / crypto), SIWE auth, 40+ tables on PostgreSQL with Drizzle ORM and Better Auth.
 
-- **CoinPaprika** — Architecting the Next.js 15+ migration on Cloudflare Workers via OpenNext (Turbo monorepo, modular `api-client` / `i18n` / `types` / `ui` packages). Shipped the official PHP SDK v1.5 and `@coinpaprika/api-nodejs-client` v3.0.0 (21 new endpoints, native fetch, dual CJS/ESM, AbortSignal cancellation).
+- **[CoinPaprika](https://coinpaprika.com)** — Architecting the Next.js 15+ migration on Cloudflare Workers via OpenNext (Turbo monorepo, modular `api-client` / `i18n` / `types` / `ui` packages). Shipped the official PHP SDK v1.5 and `@coinpaprika/api-nodejs-client` v3.0.0 (21 new endpoints, native fetch, dual CJS/ESM, AbortSignal cancellation).
 
 - **Multiple Next.js 15 + PayloadCMS sites on Cloudflare D1/R2** — DOMAR business platform (Claude API content pipeline, 120+ automated SEO scripts), LeoKlima HVAC (PL/EN/UA, Cloudflare Turnstile, lead-gen, JSON-LD), hob.com.pl roofing (Astro → Next.js 15, OpenAI, Framer Motion, next-intl).
 
